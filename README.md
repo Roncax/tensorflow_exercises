@@ -1,1 +1,3 @@
-Esercizi con Tensorflow e risoluzione challenge di kaggle del corso ANNDL
+# Esercitazioni
+- Kaggle competition
+- examples from CNNDL course
