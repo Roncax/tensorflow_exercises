@@ -124,3 +124,9 @@ dmypy.json
 .pyre/
 
 .idea/
+
+notebooks/ann-and-dl-image-classification/
+
+notebooks/UCMerced_LandUse/
+
+notebooks/Classification_Dataset/
